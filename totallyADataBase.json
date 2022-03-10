@@ -1,0 +1,24 @@
+[
+  {
+    "username": "",
+    "hashedpassword": "",
+    "email": "",
+    "wallet": [
+      {
+        "symbol": "",
+        "totalOwned": 0.0
+      }
+    ]
+  },
+  {
+    "username": "bob",
+    "hashedpassword": "",
+    "email": "bob@bob.com",
+    "wallet": [
+      {
+        "symbol": "",
+        "totalOwned": 0.0
+      }
+    ]
+  }
+]

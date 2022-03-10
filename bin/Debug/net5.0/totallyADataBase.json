@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "username": "",
+      "hashedpassword": "",
+      "email": "",
+      "wallet": [
+        {
+          "symbol": "",
+          "totalOwned": 0.0
+        }
+      ]
+    }
+  ]
+}
